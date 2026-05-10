@@ -8,3 +8,5 @@ imbalanced-learn
 matplotlib
 seaborn
 shap
+optuna
+Random forest
