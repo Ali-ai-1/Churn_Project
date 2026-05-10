@@ -2,11 +2,8 @@ streamlit
 pandas
 numpy
 scikit-learn
+imblearn
 xgboost
-lightgbm
-imbalanced-learn
 matplotlib
-seaborn
 shap
 optuna
-mlflow
