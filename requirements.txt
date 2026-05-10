@@ -9,4 +9,4 @@ matplotlib
 seaborn
 shap
 optuna
-Random forest
+Random Forest
